@@ -1,0 +1,26 @@
+[
+    {
+        "title": "The Kid LAROI, Justin Bieber - STAY (Official Video)",
+        "url": "https://youtu.be/kTJczUoc26U?si=5R1iNDAntOSPM73x",
+        "description": "",
+        "artist": "Unknown",
+        "album": "Unknown",
+        "date": "Oct 10, 2026"
+    },
+    {
+        "title": "DaBaby - ROCKSTAR ft. Roddy Ricch",
+        "url": "https://youtu.be/mxFstYSbBmc?si=_bb__2YS-aO0tBvO",
+        "description": "",
+        "artist": "Unknown",
+        "album": "Unknown",
+        "date": "Oct 10, 2026"
+    },
+    {
+        "title": "Machine Gun Kelly - Mind of a Stoner ft. Wiz Khalifa (OFFICIAL MUSIC VIDEO)",
+        "url": "https://youtu.be/SQ2HstgvzZ4?si=0uo6UUSOH9LagOFY",
+        "description": "",
+        "artist": "Unknown",
+        "album": "Unknown",
+        "date": "Oct 10, 2026"
+    }
+]
